@@ -42,4 +42,4 @@ function monthlyInterest(APY) {
     APM = APM / 100;
     return Number(APM.toFixed(3));
 }
-savingsGoal(8910, 1500, 25200, 4);
+savingsGoal(8910, 18000, 324000, 4);
